@@ -12,7 +12,7 @@
             "environment": [],
             "externalConsole": true,
             "linux": {
-                "MIMode": "lldb",  
+                "MIMode": "lldb"  
             },
             "osx": {
                 "MIMode": "lldb"
